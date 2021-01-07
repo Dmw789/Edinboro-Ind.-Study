@@ -1,0 +1,6 @@
+#include "hornet.h"
+#include "killerAnt.h"
+#include "spider.h"
+#include "explorer.h"
+#include "warrior.h"
+#include "barbarian.h"
